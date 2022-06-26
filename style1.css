@@ -1,0 +1,42 @@
+h1{
+    color: green;
+    position: relative;
+    top: 60px;
+    left: 500px;
+    font:italic;
+    font-size: 90px;
+}
+body{
+    background-color: aqua;
+}
+p{
+    font: italic;
+    font-size: 80px;
+    
+}
+h2{
+    position: relative;
+    top: 20px;
+    left:300px;
+    font:italic;
+    font-size: 90px;
+}
+h3{
+    position: relative;
+    top: 20px;
+    left: 300px;
+    font:italic;
+    font-size: 90px;
+}
+.dice{
+    margin-left: 200px;
+}
+.image1{
+    margin-left:300px;
+}
+
+.image2{
+    margin-left: 300px;
+}
+
+
